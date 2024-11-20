@@ -1,0 +1,32 @@
+.inboxCardContainer {
+  background: #fafcfb;
+  border-radius: 32px;
+  /* border-left-color: #5e9cce; */
+  border-left-style: solid;
+  border-left-width: 30px;
+  padding-left: 10px;
+  margin-top: 50px;
+  cursor: pointer;
+}
+
+.inboxCard {
+  min-height: 100vh;
+  background: #e7f2ee;
+}
+.inboxHeader {
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.inboxHeader h3 {
+  color: #282828;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.inboxFilter {
+  width: 44%;
+  display: flex;
+  justify-content: space-between;
+}

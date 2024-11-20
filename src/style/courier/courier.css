@@ -1,0 +1,20 @@
+.courierCard {
+  min-height: 100vh;
+  background: #e7f2ee;
+}
+.courierHeader {
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.courierHeader h3 {
+  color: #282828;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.courierCard label {
+  font-weight: 400;
+  color: #585858;
+}
